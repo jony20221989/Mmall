@@ -1,0 +1,4 @@
+# Project exclude paths
+/mall-admin/target/
+/mall-common/target/
+/mall-mbg/target/
